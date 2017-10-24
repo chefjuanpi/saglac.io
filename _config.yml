@@ -1,9 +1,7 @@
-title:        io
+title:        Saglac IO
 tagline:      "saglac.io"
-url:          http://andhyde.com
-author:
-  name:       ""
-  email:      ""
+description:  "Le Saglac IO se veut un événement informel entre passionnés de technologies."
+url:          http://saglac.io
 markdown:     redcarpet
 permalink:    pretty
 highlighter:  rouge
